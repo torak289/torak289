@@ -51,18 +51,3 @@ A sandbox for testing mechanics, shaders, and UX flows.
 **Dev:** Unity · XRToolkit · C# · WebGL · Flutter · PowerApps · n8n  
 **AI:** NVIDIA NeMo · TAO · NLP/ASR/TTS systems · sentiment analysis pipelines  
 **Other:** API integrations · M365 & enterprise systems · localisation · cloud workflows
-
----
-
-## 📫 Contact
-- **Email:** will.o.cottrell@gmail.com  
-- **GitHub:** github.com/torak289  
-- **Location:** London, UK  
-
----
-
-If you'd like, I can also:  
-✅ Add badges / GitHub stats  
-✅ Add project images or GIFs  
-✅ Make the tone more minimal, more technical, or more casual  
-Just tell me your preference!
