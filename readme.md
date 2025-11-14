@@ -4,24 +4,24 @@
 ---
 
 ## 🔧 What I Work On
-- Building **AI-driven products** using ASR/TTS/NLP pipelines, sentiment analysis, and workflow automation.
-- Designing and shipping **XR & spatial computing experiences** across VR, AR, WebGL, and mobile using Unity & XRToolkit.
-- Architecting **enterprise integrations** (M365, LMS/HCM/MDM, SAP SuccessFactors) and low/no-code systems with PowerApps & n8n.
-- Developing **content creation and automation tools** — from intelligent CMS systems to internal copilots.
-- Prototyping and validating **emerging tech** for high-impact use cases across education, healthcare, and enterprise.
-- Delivering **cross-platform products** end-to-end: research → architecture → development → testing → release.
+- Building **AI-driven products** using ASR/TTS/NLP pipelines, LLM orchestration, and real-time sentiment analysis.  
+- Designing and delivering **XR & spatial computing experiences** across VR, AR, WebGL, and mobile using Unity & XRToolkit.  
+- Developing **automation systems** and internal copilots with low/no-code platforms to reduce operational overhead.  
+- Creating **intelligent content tooling** that accelerates production, improves quality, and scales across platforms.  
+- Architecting **secure, enterprise-grade integrations** across identity, learning, and workflow systems.  
+- Leading **end-to-end product development** from discovery and prototyping to release and iteration.
 
 ---
 
 ## 🧠 About Me
-I’ve led and shipped immersive, AI, and enterprise products across startups, scale-ups, and higher education. Highlights include:
+I build products at the intersection of AI, immersive tech, and scalable systems. My background spans hands-on Unity development, technical product management, and delivering high-impact digital platforms. Some things I’ve achieved:
 
-- Leading product development of *Virtual Human*, an AI conversational avatar system using NVIDIA NeMo, TAO, and custom NLP models.  
-- Owning full product lifecycle for VR and web platforms used by Meta, Novo Nordisk, and Nestlé.  
-- Delivering a **$2.5M spatial computing project** in 6 months (down from 18), resulting in millions in follow-on work.  
-- Building intelligent content creation systems, localisation pipelines, and multi-platform XR interfaces.  
-- Increasing Copilot and automation adoption at university scale through AI/ML tooling and low/no-code deployment.  
-- Developing cross-platform mobile and Unity apps, including **Robusta (Café App)** and a custom **roguelike prototype**.
+- Led full development of conversational AI systems using GPU-accelerated speech, language, and interaction pipelines.  
+- Delivered complex immersive simulation projects, cutting build timelines by over 60% through structured product planning.  
+- Built modular XR interfaces, localisation pipelines, and multi-platform deployment systems used across web, mobile, and VR.  
+- Designed intelligent content creation tools and automation workflows that significantly improved delivery efficiency.  
+- Implemented AI/ML and automation solutions that improved decision-making, reduced manual work, and scaled internal operations.  
+- Created personal exploration projects, including **Robusta (Café App)** for iOS/Android and an **experimental Unity roguelike**.
 
 ---
 
