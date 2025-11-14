@@ -1,32 +1,24 @@
-# 👋 Hi, I'm Will Cottrell  
+# 👋 Hey, I'm Will Cottrell  
 **Product Manager · XR & AI Technologist · Unity Developer**
 
 ---
 
 ## 🔧 What I Work On
-- Building **AI-driven products** using ASR/TTS/NLP pipelines, LLM orchestration, and real-time sentiment analysis.  
-- Designing and delivering **XR & spatial computing experiences** across VR, AR, WebGL, and mobile using Unity & XRToolkit.  
-- Developing **automation systems** and internal copilots with low/no-code platforms to reduce operational overhead.  
-- Creating **intelligent content tooling** that accelerates production, improves quality, and scales across platforms.  
-- Architecting **secure, enterprise-grade integrations** across identity, learning, and workflow systems.  
-- Leading **end-to-end product development** from discovery and prototyping to release and iteration.
+- 🤖 Building AI-driven products using ASR/TTS/NLP pipelines, LLM orchestration, and real-time sentiment analysis  
+- 🥽 Designing & delivering XR + spatial computing experiences across VR, AR, Mobile, and WebGL  
+- ⚙️ Creating automation systems & internal copilots using PowerApps, n8n, and low/no-code tools  
+- 🧰 Developing intelligent content tools that speed up production and scale across platforms  
+- 🔐 Architecting enterprise-grade integrations (identity, workflow, learning systems)  
+- 🚀 Leading end-to-end product development from discovery → prototype → build → release
 
 ---
 
 ## 🧠 About Me
-I build products at the intersection of AI, immersive tech, and scalable systems. My background spans hands-on Unity development, technical product management, and delivering high-impact digital platforms. Some things I’ve achieved:
+I build products where AI, immersive tech, and scalable systems intersect. My background spans hands-on Unity development and technical product management, focused on delivering measurable impact. Some things I’ve done:
 
-- Led full development of conversational AI systems using GPU-accelerated speech, language, and interaction pipelines.  
-- Delivered complex immersive simulation projects, cutting build timelines by over 60% through structured product planning.  
-- Built modular XR interfaces, localisation pipelines, and multi-platform deployment systems used across web, mobile, and VR.  
-- Designed intelligent content creation tools and automation workflows that significantly improved delivery efficiency.  
-- Implemented AI/ML and automation solutions that improved decision-making, reduced manual work, and scaled internal operations.  
-- Created personal exploration projects, including **Robusta (Café App)** for iOS/Android and an **experimental Unity roguelike**.
-
----
-
-## 📫 Contact
-- **Email:** will.o.cottrell@gmail.com  
-- **GitHub:** github.com/torak289  
-- **Location:** London, UK  
-
+- 🗣️ Developed conversational AI systems with GPU-accelerated speech + language pipelines  
+- 📉 Reduced immersive simulation delivery timelines by **60%+** through smarter planning and modular design  
+- 🧩 Built modular XR interfaces, localisation pipelines, and multi-platform deployment workflows  
+- ⚡ Created intelligent content tooling and automation flows that significantly reduced manual effort  
+- 🔎 Implemented AI/ML and automation solutions to improve decision-making and operational efficiency  
+- 🎮 Built personal projects including Robusta (Café App) for iOS/Android and an experimental Unity roguelike
