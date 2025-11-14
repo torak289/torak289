@@ -1,53 +1,32 @@
 # 👋 Hi, I'm Will Cottrell  
 **Product Manager · XR & AI Technologist · Unity Developer**
 
-I'm a Product Manager and immersive tech specialist with experience building AI-powered, spatial computing, web, mobile, and VR/AR products. I focus on solving complex problems with clear product vision, iterative discovery, and cross-functional collaboration.
+---
 
-I’ve shipped products across startups, scale-ups, and higher-education environments — from conversational AI avatars to enterprise XR platforms to workflow automation tools.
+## 🔧 What I Work On
+- Building **AI-driven products** using ASR/TTS/NLP pipelines, sentiment analysis, and workflow automation.
+- Designing and shipping **XR & spatial computing experiences** across VR, AR, WebGL, and mobile using Unity & XRToolkit.
+- Architecting **enterprise integrations** (M365, LMS/HCM/MDM, SAP SuccessFactors) and low/no-code systems with PowerApps & n8n.
+- Developing **content creation and automation tools** — from intelligent CMS systems to internal copilots.
+- Prototyping and validating **emerging tech** for high-impact use cases across education, healthcare, and enterprise.
+- Delivering **cross-platform products** end-to-end: research → architecture → development → testing → release.
 
 ---
 
-## 🚀 What I Do
+## 🧠 About Me
+I’ve led and shipped immersive, AI, and enterprise products across startups, scale-ups, and higher education. Highlights include:
 
-### **Product Management**
-- Leading innovation and emerging technology initiatives across **AI, ML, workflow automation, M365 and low/no-code**.
-- Defining clear product strategy, vision, and impact-driven roadmaps.
-- Leading discovery: user interviews, persona development, validation, and iterative testing.
-- Delivering enterprise platforms and integrations (LMS, HCM, MDM, SAP, Microsoft 365, One Identity).
-
-### **Immersive & Interactive Tech**
-- Unity development across **VR, AR, WebGL, Mobile & Tablet**.
-- Building XR interfaces, intelligent content systems, menu systems, and virtual human interaction pipelines.
-- Implementing **ASR, TTS, NLP**, localisation engines, and GPU-accelerated AI workflows (NVIDIA NeMo, TAO).
-
-### **AI / Automation**
-- Implementing **PowerApps**, **n8n**, and automation tooling to streamline operations.
-- Designing digital assistants, insights tooling, and sentiment analysis systems.
-- Exploratory research into emerging AI and ML technologies.
+- Leading product development of *Virtual Human*, an AI conversational avatar system using NVIDIA NeMo, TAO, and custom NLP models.  
+- Owning full product lifecycle for VR and web platforms used by Meta, Novo Nordisk, and Nestlé.  
+- Delivering a **$2.5M spatial computing project** in 6 months (down from 18), resulting in millions in follow-on work.  
+- Building intelligent content creation systems, localisation pipelines, and multi-platform XR interfaces.  
+- Increasing Copilot and automation adoption at university scale through AI/ML tooling and low/no-code deployment.  
+- Developing cross-platform mobile and Unity apps, including **Robusta (Café App)** and a custom **roguelike prototype**.
 
 ---
 
-## 🧩 Personal Projects
+## 📫 Contact
+- **Email:** will.o.cottrell@gmail.com  
+- **GitHub:** github.com/torak289  
+- **Location:** London, UK  
 
-### **☕ Robusta — Café App (iOS & Android, Upcoming Release)**
-A mobile app exploring:
-- Cross-platform mobile architecture  
-- Design systems & intuitive UI/UX patterns  
-- Modern app publishing pipelines  
-Planned release on the App Store & Play Store.
-
-### **🎮 Untitled Roguelike**
-A custom-built roguelike prototype exploring:
-- Procedural generation  
-- Lightweight gameplay architecture  
-- Fast iteration using Unity  
-A sandbox for testing mechanics, shaders, and UX flows.
-
----
-
-## 🛠️ Tech Stack
-
-**Product:** Roadmapping · Discovery · Research · Stakeholder Management · AI/ML strategy  
-**Dev:** Unity · XRToolkit · C# · WebGL · Flutter · PowerApps · n8n  
-**AI:** NVIDIA NeMo · TAO · NLP/ASR/TTS systems · sentiment analysis pipelines  
-**Other:** API integrations · M365 & enterprise systems · localisation · cloud workflows
